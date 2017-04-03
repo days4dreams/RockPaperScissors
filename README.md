@@ -1,0 +1,2 @@
+# RockPaperScissors
+JavaScript applications capable of playing the game 'Rock, Paper, Scissors' with a user via a console or terminal. Application can:  Accept a move from a player. Get a random move from the computer. Compare the player's move to the computer's move in order to determine a winner. Keep track of how many times the player and the computer have won. Run until either the player or the computer has won five times.
